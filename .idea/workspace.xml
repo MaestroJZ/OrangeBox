@@ -1,0 +1,422 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f419b529-52b9-4d1e-93d0-17a15da2fb74" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.sass" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sass/main.sass">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1944">
+              <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.form__text-wrapper</find>
+      <find>исполнитель</find>
+      <find>.questions__title</find>
+      <find>.form__wrapper</find>
+      <find>input</find>
+      <find>.header__order</find>
+      <find>input-wrapper</find>
+      <find>overla</find>
+      <find>faceb</find>
+      <find>ret</find>
+      <find>prev</find>
+      <find>усидч</find>
+      <find>.header</find>
+      <find>btn-menu</find>
+      <find>.btn-menu</find>
+      <find>.team__list</find>
+      <find>team__list-item</find>
+      <find>.attribute__lis</find>
+      <find>services__item</find>
+      <find>.action__inner</find>
+      <find>.action__title</find>
+      <find>.header__inner</find>
+      <find>services__item-age</find>
+      <find>attri</find>
+      <find>owl</find>
+      <find>arrow-</find>
+      <find>attribute__item</find>
+      <find>1170</find>
+      <find>partner__link</find>
+      <find>top-line</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="D:/server/napishem/account/static/frontend/source/frontend/Chatter/chatter.scss" />
+        <option value="$PROJECT_DIR$/../gruzia/index.html" />
+        <option value="$PROJECT_DIR$/../gruzia/sass/main.sass" />
+        <option value="$PROJECT_DIR$/404.html" />
+        <option value="D:/pohoodenie/sass/main.sass" />
+        <option value="$PROJECT_DIR$/../altus/templates/header-menu.php" />
+        <option value="$PROJECT_DIR$/templates/advantages.php" />
+        <option value="$PROJECT_DIR$/templates/profile.php" />
+        <option value="$PROJECT_DIR$/templates/contacts.php" />
+        <option value="$PROJECT_DIR$/templates/footer.php" />
+        <option value="$PROJECT_DIR$/templates/scripts.php" />
+        <option value="$PROJECT_DIR$/templates/top-line.php" />
+        <option value="$PROJECT_DIR$/templates/styles.php" />
+        <option value="$PROJECT_DIR$/podgotovka.php" />
+        <option value="$PROJECT_DIR$/read.php" />
+        <option value="$PROJECT_DIR$/school.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/img/arrow.svg" />
+        <option value="P:/openserver/OSPanel/domains/cleanupp/templates/about-window.php" />
+        <option value="$PROJECT_DIR$/img/mask.svg" />
+        <option value="$PROJECT_DIR$/css/magnific-popup.css" />
+        <option value="P:/openserver/OSPanel/domains/bears/sass/main.sass" />
+        <option value="$PROJECT_DIR$/../1486147227-social-media-network26_79482.svg" />
+        <option value="$PROJECT_DIR$/js/main.js" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/sass/main.sass" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="lp" type="b2602c69:ProjectViewProjectNode" />
+              <item name="lp" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/medical site" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/pohoodenie/sass/main.sass" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="P:\openserver\OSPanel\domains\premier" />
+      <recent name="C:\Users\-\Desktop\petsvote" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+    </configuration>
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f419b529-52b9-4d1e-93d0-17a15da2fb74" name="Default" comment="" />
+      <created>1556735886419</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556735886419</updated>
+      <workItem from="1556735887577" duration="1160000" />
+      <workItem from="1556786524982" duration="16680000" />
+      <workItem from="1556816292454" duration="6521000" />
+      <workItem from="1556866586420" duration="20657000" />
+      <workItem from="1556894302827" duration="39000" />
+      <workItem from="1556978281000" duration="10207000" />
+      <workItem from="1557052224082" duration="15000" />
+      <workItem from="1557053580317" duration="474000" />
+      <workItem from="1557068775441" duration="19866000" />
+      <workItem from="1557317739543" duration="18713000" />
+      <workItem from="1557765671124" duration="2949000" />
+      <workItem from="1558011501677" duration="5819000" />
+      <workItem from="1558090330185" duration="7841000" />
+      <workItem from="1558177418640" duration="3303000" />
+      <workItem from="1558187868586" duration="186000" />
+      <workItem from="1558191830463" duration="1957000" />
+      <workItem from="1559586958400" duration="18000" />
+      <workItem from="1562150346838" duration="15990000" />
+      <workItem from="1562240321315" duration="6949000" />
+      <workItem from="1562258594655" duration="2177000" />
+      <workItem from="1562489671980" duration="1015000" />
+      <workItem from="1562571978100" duration="72000" />
+      <workItem from="1562672795860" duration="6837000" />
+      <workItem from="1563191664278" duration="59398000" />
+      <workItem from="1563866896429" duration="22329000" />
+      <workItem from="1568299303967" duration="1092000" />
+      <workItem from="1568378989535" duration="2524000" />
+      <workItem from="1568628718673" duration="11062000" />
+      <workItem from="1568702941446" duration="12159000" />
+      <workItem from="1568793544456" duration="14130000" />
+      <workItem from="1568824715194" duration="12400000" />
+      <workItem from="1568968856579" duration="3246000" />
+      <workItem from="1568988717131" duration="3342000" />
+      <workItem from="1569234908533" duration="3279000" />
+      <workItem from="1577382966203" duration="7021000" />
+      <workItem from="1577520694770" duration="26000" />
+      <workItem from="1577622856633" duration="2658000" />
+      <workItem from="1578054762270" duration="9869000" />
+      <workItem from="1578563526837" duration="810000" />
+      <workItem from="1578744048725" duration="7237000" />
+      <workItem from="1579100882173" duration="44000" />
+      <workItem from="1580149414804" duration="3375000" />
+      <workItem from="1580217422386" duration="2889000" />
+      <workItem from="1580228560447" duration="2589000" />
+      <workItem from="1580640477660" duration="100000" />
+      <workItem from="1581091160658" duration="21000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="331045000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/img/correct.svg" />
+    <entry file="file://$PROJECT_DIR$/img/next.svg" />
+    <entry file="file://$PROJECT_DIR$/../bears/js/main.js" />
+    <entry file="file://D:/server/napishem/account/static/frontend/source/frontend/Chatter/chatter.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7786">
+          <caret line="458" column="15" lean-forward="true" selection-start-line="458" selection-start-column="15" selection-end-line="458" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/server/napishem/account/static/frontend/source/frontend/helpers/mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="753">
+          <caret line="135" column="0" lean-forward="false" selection-start-line="135" selection-start-column="0" selection-end-line="135" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/server/napishem/account/static/frontend/source/frontend/patches/sprite.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../gruzia/index.html" />
+    <entry file="file://$PROJECT_DIR$/../gruzia/sass/main.sass" />
+    <entry file="file://$PROJECT_DIR$/404.html" />
+    <entry file="file://D:/pohoodenie/sass/main.sass" />
+    <entry file="file://$PROJECT_DIR$/../altus/templates/header-menu.php" />
+    <entry file="file://$PROJECT_DIR$/../altus/sass/main.sass" />
+    <entry file="file://$PROJECT_DIR$/templates/advantages.php" />
+    <entry file="file://$PROJECT_DIR$/templates/profile.php" />
+    <entry file="file://$PROJECT_DIR$/templates/contacts.php" />
+    <entry file="file://$PROJECT_DIR$/templates/footer.php" />
+    <entry file="file://$PROJECT_DIR$/templates/top-line.php" />
+    <entry file="file://$PROJECT_DIR$/templates/popups.php" />
+    <entry file="file://$PROJECT_DIR$/read.php" />
+    <entry file="file://$PROJECT_DIR$/podgotovka.php" />
+    <entry file="file://$PROJECT_DIR$/school.php" />
+    <entry file="file://$PROJECT_DIR$/../premier/templates/scripts.php" />
+    <entry file="file://$PROJECT_DIR$/../premier/sass/main.sass" />
+    <entry file="file://$PROJECT_DIR$/templates/styles.php" />
+    <entry file="file://$PROJECT_DIR$/templates/scripts.php" />
+    <entry file="file://$PROJECT_DIR$/img/arrow.svg" />
+    <entry file="file://P:/openserver/OSPanel/domains/altus/templates/styles.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/cleanupp/templates/about-window.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/cleanupp/templates/head-window.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/cleanupp/window.php" />
+    <entry file="file://$PROJECT_DIR$/img/mask.svg" />
+    <entry file="file://P:/openserver/OSPanel/domains/premier/templates/contacts.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/cleanupp/sass/main.sass" />
+    <entry file="file://$PROJECT_DIR$/../ggg/index.html" />
+    <entry file="file://P:/openserver/OSPanel/domains/premier/index.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/premier/templates/popups.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/premier/js/main.js" />
+    <entry file="file://P:/openserver/OSPanel/domains/cleanupp/js/main.js" />
+    <entry file="file://P:/openserver/OSPanel/domains/dieta/js/main.js" />
+    <entry file="file://$PROJECT_DIR$/css/magnific-popup.css" />
+    <entry file="file://P:/openserver/OSPanel/domains/altus/js/main.js" />
+    <entry file="file://P:/openserver/OSPanel/domains/avia/js/main.js" />
+    <entry file="file://P:/openserver/OSPanel/domains/bears/templates/styles.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/bears/templates/scripts.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/bears/index.php" />
+    <entry file="file://P:/openserver/OSPanel/domains/bears/js/main.js" />
+    <entry file="file://P:/openserver/OSPanel/domains/bears/sass/main.sass" />
+    <entry file="file://$PROJECT_DIR$/../1486147227-social-media-network26_79482.svg" />
+    <entry file="file://$PROJECT_DIR$/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/main.sass">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1944">
+          <caret line="72" column="34" lean-forward="false" selection-start-line="72" selection-start-column="34" selection-end-line="72" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
